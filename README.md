@@ -10,8 +10,6 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp,react,next,python,pytorch,rust,docker,kubernetes)](https://skillicons.dev)
 
 
-[![alias09inc's GitHub stats](https://github-readme-stats.vercel.app/api?username=alias09inc)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
-
 
 
 
