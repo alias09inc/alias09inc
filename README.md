@@ -13,9 +13,7 @@
 [![alias09inc's GitHub stats](https://github-readme-stats.vercel.app/api?username=alias09inc)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
 
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alias09inc)](https://github.com/anuraghazra/github-readme-stats&layout=compact)-->
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=alias09inc&show_icons=true&locale=en&layout=compact)
 
 
 
